@@ -1,0 +1,33 @@
+
+body{
+font-family: cursive;
+
+}
+       .hddiv1 {
+padding-top: 50px;
+        font-family: fantasy;
+    
+    font-size: 15px;
+    line-height: 1px;
+    background-color: blue;
+    height: 200px;
+    text-align: center;
+}
+
+
+.about1 {
+    margin: 20px;
+}  
+
+ .newsbox {
+  border-color: dimgray;
+     border-radius: 20px;
+     border-width: 2px;
+ 
+}
+.preview {
+  line-height: 2px;
+  word-spacing: 5px;
+  display: inline-flex;
+  
+}
